@@ -5,14 +5,10 @@ riga file1 n.4
 riga file1 n.5
 riga da master
 modifica da integrazione satispay
-riga file1 n.8
-riga file1 n.9
-riga file1 n.10
-riga file1 n.11 da repo locale
-riga file1 n.12 da github
-riga file1 n.13 da locale
-<<<<<<< HEAD
-riga file1 n.14 da locale
-=======
-riga file1 n.14 da github
->>>>>>> b03c9ab9539c648326bf39d5d4816cdac7af13df
+riga 8
+riga 9
+riga 10
+riga 11 da repo locale
+riga 12 da github
+riga 13 da locale
+riga 14 da github
