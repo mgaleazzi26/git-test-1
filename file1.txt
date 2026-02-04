@@ -9,8 +9,13 @@ riga file1 n.8
 riga file1 n.9
 riga file1 n.10
 <<<<<<< HEAD
+<<<<<<< HEAD
 riga file1 n.11 da repo locale
 =======
 riga 11
 riga 12
 >>>>>>> 6f77294df3bb7bf0394f9f6bfc3b93e3421953f4
+=======
+
+riga 12 da github
+>>>>>>> f35e7b834f35c8639b26990b6380fae1b1541be5
