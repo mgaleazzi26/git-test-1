@@ -8,4 +8,9 @@ modifica da integrazione satispay
 riga file1 n.8
 riga file1 n.9
 riga file1 n.10
+<<<<<<< HEAD
 riga file1 n.11 da repo locale
+=======
+riga 11
+riga 12
+>>>>>>> 6f77294df3bb7bf0394f9f6bfc3b93e3421953f4
